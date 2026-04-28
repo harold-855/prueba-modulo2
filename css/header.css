@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    flex-flow: row wrap;
+    gap:4rem;
+        
+}
+
+
+header nav  ul  li{
+    list-style: none;}
+
+header nav ul li a {
+    text-decoration: none;
+    border:solid;
+    background-color: black;
+    border-radius: 2rem;
+    color: goldenrod;
+}
+
+header nav ul{
+    display:flex;
+    justify-content: space-around;
+    gap: 9rem;
+    
+}
+
