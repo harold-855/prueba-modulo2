@@ -32,7 +32,7 @@ The page focuses on semantic HTML structure and modern CSS layout techniques, en
 1. Download or clone the project repository:
 
 ```bash
-git clone:
+git clone: https://github.com/harold-855/prueba-modulo2.git
 ```
 
 2. Open the project folder.
